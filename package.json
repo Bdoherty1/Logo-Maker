@@ -1,0 +1,15 @@
+{
+  "type": "commonjs",
+  "name": "16-stu_mock-fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "BriancDoherty",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}

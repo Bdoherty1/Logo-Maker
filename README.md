@@ -31,7 +31,6 @@ Generate simple logos for your projects or Business with ease using this command
 - **lib:** Classes and functions
   - `shapes.js:` Exports `Triangle`, `Circle`, and `Square` classes
   - `shapes.test.js:` Jest tests for shapes
-  - `more...:` Additional files and tests
 - **.gitignore:** Specifies ignored folders and files for Git
 - **index.js:** Application entry point with imports from lib/
 - **package.json**
